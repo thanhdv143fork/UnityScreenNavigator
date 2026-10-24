@@ -6,6 +6,11 @@
   "license": "MIT",
   "dependencies": {
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanhdv143fork/UnityScreenNavigator.git",
+    "directory": "Assets/UnityScreenNavigator"
+  },
   "author": {
     "name": "Haruki Yano",
     "url": "https://github.com/Haruma-K"

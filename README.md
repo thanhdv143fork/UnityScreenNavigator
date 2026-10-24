@@ -99,7 +99,7 @@ For more information, including copyright, please refer to the following website
 1. Open the Package Manager from Window > Package Manager
 2. "+" button > Add package from git URL
 3. Enter the following to install
-   * https://github.com/Haruma-K/UnityScreenNavigator.git?path=/Assets/UnityScreenNavigator
+   * https://github.com/thanhdv143fork/UnityScreenNavigator.git?path=/Assets/UnityScreenNavigator
 
 <p align="center">
   <img width="80%" src="https://user-images.githubusercontent.com/47441314/118421190-97842b00-b6fb-11eb-9f94-4dc94e82367a.png" alt="Package Manager">
@@ -110,14 +110,14 @@ Or, open Packages/manifest.json and add the following to the dependencies block.
 ```json
 {
     "dependencies": {
-        "com.harumak.unityscreennavigator": "https://github.com/Haruma-K/UnityScreenNavigator.git?path=/Assets/UnityScreenNavigator"
+        "com.harumak.unityscreennavigator": "https://github.com/thanhdv143fork/UnityScreenNavigator.git?path=/Assets/UnityScreenNavigator"
     }
 }
 ```
 
 If you want to set the target version, specify it like follow.
 
-* https://github.com/Haruma-K/UnityScreenNavigator.git?path=/Assets/UnityScreenNavigator#1.0.0
+* https://github.com/thanhdv143fork/UnityScreenNavigator.git?path=/Assets/UnityScreenNavigator#1.0.0
 
 ## Basic Screen Transition
 
