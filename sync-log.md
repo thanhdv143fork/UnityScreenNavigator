@@ -37,3 +37,4 @@ Automatically updated by the [Sync Upstream](.github/workflows/sync-upstream.yml
 | 2026-11-24 12:34:16 | Haruma-K/UnityScreenNavigator | c7c0c36 | Already up to date |
 | 2026-11-25 11:23:38 | Haruma-K/UnityScreenNavigator | c7c0c36 | Already up to date |
 | 2026-11-26 10:58:36 | Haruma-K/UnityScreenNavigator | c7c0c36 | Already up to date |
+| 2026-11-27 10:56:36 | Haruma-K/UnityScreenNavigator | c7c0c36 | Already up to date |
